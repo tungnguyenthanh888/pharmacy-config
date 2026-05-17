@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/pharmacy_db
+    url: jdbc:postgresql://localhost:5432/inventory_db
     username: postgres
     password: 123456
   jpa:
@@ -16,8 +16,3 @@ eureka:
       default: http://localhost:8761/eureka/
     fetch-registry: true
     register-with-eureka: true
-app:
-  branchName: "Nha thuoc so 1"
-  hotline: "0961761326"
-  vat: 10
-    
