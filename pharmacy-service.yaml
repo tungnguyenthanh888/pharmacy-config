@@ -19,4 +19,5 @@ eureka:
 app:
   branchName: "Nha thuoc so 1"
   hotline: "0961761326"
+  vat: 10
     
